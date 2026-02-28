@@ -1,5 +1,4 @@
 # Module 5 Homework: Data Platforms with Bruin
-# Module 5 Homework: Data Platforms with Bruin
 
 This repository contains the solutions to the Module 5 Homework for the Data Engineering Zoomcamp, focusing on Data Platforms with Bruin.
 
